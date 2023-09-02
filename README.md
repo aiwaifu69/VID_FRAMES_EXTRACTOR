@@ -5,16 +5,14 @@ To run this Python script for extracting frames from videos, you will need the f
 OpenCV
 Install OpenCV using pip:
 <!---->
-Copy code
 
-pip install opencv-python
+- pip install opencv-python
 2.  Tkinter
 
 Tkinter comes pre-installed with Python. But if you want to install it separately:
 <!---->
-Copy code
 
-pip install tkinter
+- pip install tkinter
 3.  concurrent.futures
 
 This also comes pre-installed with Python. No separate installation needed.
@@ -26,13 +24,12 @@ Make sure you have Python installed on your system.
 Open Command Prompt/Terminal
 Run:
 <!---->
-Copy code
 
-pip install opencv-python
+- pip install opencv-python
 4.  Once OpenCV is installed successfully, you can run the Python script:
 
 <!---->
 Copy code
 
-python 29FPS_EXTRACT.py
+- python 29FPS_EXTRACT.py
 The script will open up a GUI window to select videos and output folder. After selection it will start extracting frames from videos to the output folder.
